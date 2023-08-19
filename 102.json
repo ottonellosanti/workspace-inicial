@@ -1,0 +1,33 @@
+{
+    "catID": 102,
+    "catName": "Juguetes",
+    "products": [
+        {
+            "id": 50924,
+            "name": "Oso de Peluche",
+            "description": "Oso de Peluche 100% algodon 30cm de alto.",
+            "cost": 9,
+            "currency": "USD",
+            "soldCount": 16,
+            "image": "img/prod50741_1.jpg"
+        },
+        {
+            "id": 50925,
+            "name": "Pelota Basketball",
+            "description": "Pelota Oficial NBA 2023.",
+            "cost": 13,
+            "currency": "USD",
+            "soldCount": 54,
+            "image": "img/prod50742_2.jpg"
+        },
+        {
+            "id": 50926,
+            "name": "Bicicleta",
+            "description": "Bicicleta de niño color verde.",
+            "cost": 19,
+            "currency": "USD",
+            "soldCount": 65,
+            "image": "img/prod50744_4.jpg"
+        }
+    ]
+}
