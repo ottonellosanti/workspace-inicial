@@ -1,0 +1,33 @@
+{
+    "catID": 103,
+    "catName": "Juguetes",
+    "products": [
+        {
+            "id": 50927,
+            "name": "Mesa Ratona",
+            "description": "Mesa Ratona de madera mascisa color caoba.",
+            "cost": 30,
+            "currency": "USD",
+            "soldCount": 16,
+            "image": "img/prod60804_2.jpg"
+        },
+        {
+            "id": 50928,
+            "name": "Ropero 3 Puertas",
+            "description": "Ropero de 3 puertas de madera mascisa color caoba.",
+            "cost": 25,
+            "currency": "USD",
+            "soldCount": 54,
+            "image": "img/prod60803_1.jpg"
+        },
+        {
+            "id": 50929,
+            "name": "Sofa",
+            "description": "Sofa de 1 cuerpo de color gris.",
+            "cost": 40,
+            "currency": "USD",
+            "soldCount": 65,
+            "image": "img/prod60802_1.jpg"
+        }
+    ]
+}
