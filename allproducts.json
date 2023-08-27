@@ -10,7 +10,7 @@
             "currency": "USD",
             "soldCount": 14,
             "image": "img/prod50921_1.jpg",
-            "catName": "Autos"
+            "catProd": "Autos"
         },
         {
             "id": 50922,
@@ -20,7 +20,7 @@
             "currency": "USD",
             "soldCount": 52,
             "image": "img/prod50922_1.jpg",
-            "catName": "Autos"
+            "catProd": "Autos"
         },
         {
             "id": 50923,
@@ -30,7 +30,7 @@
             "currency": "USD",
             "soldCount": 25,
             "image": "img/prod50923_1.jpg",
-            "catName": "Autos"
+            "catProd": "Autos"
         },
         {
             "id": 50924,
@@ -40,7 +40,7 @@
             "currency": "USD",
             "soldCount": 17,
             "image": "img/prod50924_1.jpg",
-            "catName": "Autos"
+            "catProd": "Autos"
         },
         {
             "id": 50925,
@@ -50,7 +50,7 @@
             "currency": "USD",
             "soldCount": 0,
             "image": "img/prod50925_1.jpg",
-            "catName": "Autos"
+            "catProd": "Autos"
         },
         {
             "id": 50927,
@@ -60,7 +60,7 @@
             "currency": "USD",
             "soldCount": 16,
             "image": "img/prod60804_2.jpg",
-            "catName": "Muebles"
+            "catProd": "Muebles"
         },
         {
             "id": 50928,
@@ -70,7 +70,7 @@
             "currency": "USD",
             "soldCount": 54,
             "image": "img/prod60803_1.jpg",
-            "catName": "Muebles"
+            "catProd": "Muebles"
         },
         {
             "id": 50929,
@@ -80,7 +80,7 @@
             "currency": "USD",
             "soldCount": 65,
             "image": "img/prod60802_1.jpg",
-            "catName": "Muebles"
+            "catProd": "Muebles"
         },
         {
             "id": 50924,
@@ -90,7 +90,7 @@
             "currency": "USD",
             "soldCount": 16,
             "image": "img/prod50741_1.jpg",
-            "catName": "Juguetes"
+            "catProd": "Juguetes"
         },
         {
             "id": 50925,
@@ -100,7 +100,7 @@
             "currency": "USD",
             "soldCount": 54,
             "image": "img/prod50742_2.jpg",
-            "catName": "Juguetes"
+            "catProd": "Juguetes"
         },
         {
             "id": 50926,
@@ -110,7 +110,7 @@
             "currency": "USD",
             "soldCount": 65,
             "image": "img/prod50744_4.jpg",
-            "catName": "Juguetes"
+            "catProd": "Juguetes"
         }
 
     ]
